@@ -73,7 +73,7 @@ main p {
 }
 .heading-1 h1{
     color: white;
-    font:800;
+    font:500;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,8 +83,6 @@ main p {
 .icon-box ul {
     color: white;
 }
-
-
 
 
 
@@ -106,4 +104,5 @@ main p {
     main h2 {
         width: 30%;
     }
+   
 }
